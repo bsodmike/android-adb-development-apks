@@ -1,5 +1,7 @@
 # Android APKs for Dev with AVD
 
+These APKs are x86 and x86_64 compatible.
+
 Upload apks with `adb` as follows:
 
 ```
